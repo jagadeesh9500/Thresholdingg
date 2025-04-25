@@ -28,8 +28,8 @@ Use Otsu's method to segment the image and display the results.
 
 ```python
 
-#Developed by : RANJANI A
-#Register No: 212223230170
+#Developed by : jagadeesh P
+#Register No: 212223230083
 
 # Load the necessary packages
 
